@@ -1,5 +1,5 @@
 import React from 'react';
-import ItemProduct from './ItemProduct';
+import ItemProduct from '../../container/Product/ItemProduct';
 function MainShop(props) {
     return (
         <div className="col-lg-9">
@@ -19,17 +19,17 @@ function MainShop(props) {
             </div>
             <div className="latest_product_inner">
                 <div className="row">
-                    <ItemProduct img="resources/img/product/inspired-product/i1.jpg"
+                    <ItemProduct type="col-lg-4 col-md-6" name="Tên sản phẩm" img="resources/img/product/inspired-product/i1.jpg"
                         discountPrice="$2500" Price="$3500"></ItemProduct>
-                    <ItemProduct img="resources/img/product/inspired-product/i1.jpg"
+                    <ItemProduct type="col-lg-4 col-md-6" name="Tên sản phẩm" img="resources/img/product/inspired-product/i1.jpg"
                         discountPrice="$2500" Price="$3500"></ItemProduct>
-                    <ItemProduct img="resources/img/product/inspired-product/i1.jpg"
+                    <ItemProduct type="col-lg-4 col-md-6" name="Tên sản phẩm" img="resources/img/product/inspired-product/i1.jpg"
                         discountPrice="$2500" Price="$3500"></ItemProduct>
-                    <ItemProduct img="resources/img/product/inspired-product/i1.jpg"
+                    <ItemProduct type="col-lg-4 col-md-6" name="Tên sản phẩm" img="resources/img/product/inspired-product/i1.jpg"
                         discountPrice="$2500" Price="$3500"></ItemProduct>
-                    <ItemProduct img="resources/img/product/inspired-product/i1.jpg"
+                    <ItemProduct type="col-lg-4 col-md-6" name="Tên sản phẩm" img="resources/img/product/inspired-product/i1.jpg"
                         discountPrice="$2500" Price="$3500"></ItemProduct>
-                    <ItemProduct img="resources/img/product/inspired-product/i1.jpg"
+                    <ItemProduct type="col-lg-4 col-md-6" name="Tên sản phẩm" img="resources/img/product/inspired-product/i1.jpg"
                         discountPrice="$2500" Price="$3500"></ItemProduct>
                 </div>
             </div>
