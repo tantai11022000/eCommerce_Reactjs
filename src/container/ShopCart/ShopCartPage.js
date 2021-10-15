@@ -1,5 +1,5 @@
 import React from 'react';
-import ShopCartItem from './ShopCartItem';
+import ShopCartItem from '../../component/ShopCart/ShopCartItem';
 
 function ShopCartPage(props) {
     return (

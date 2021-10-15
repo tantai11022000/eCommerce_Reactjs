@@ -1,6 +1,6 @@
 import React from 'react';
-import ItemProduct from '../../../container/Product/ItemProduct';
-import HeaderContent from '../../../container/Content/HeaderContent';
+import ItemProduct from '../Product/ItemProduct';
+import HeaderContent from '../Content/HeaderContent';
 function NewProductFeature(props) {
     return (
         <section className="new_product_area section_gap_top section_gap_bottom_custom">

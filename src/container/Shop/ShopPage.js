@@ -1,8 +1,8 @@
 import React from 'react';
-import MainShop from './MainShop';
-import Category from './Category';
-import Brand from './Brand';
-import Pagination from './Pagination';
+import MainShop from '../../component/Shop/MainShop';
+import Category from '../../component/Shop/Category';
+import Brand from '../../component/Shop/Brand';
+import Pagination from '../../component/Shop/Pagination';
 function ShopPage(props) {
     return (
 

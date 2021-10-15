@@ -1,9 +1,9 @@
 import React from 'react';
-import ImgDetailProduct from './ImgDetailProduct';
-import InfoDetailProduct from './InfoDetailProduct';
-import CommentProduct from './CommentProduct';
-import ProfileProduct from './ProfileProduct';
-import ReviewProduct from './ReviewProduct';
+import ImgDetailProduct from '../../component/Product/ImgDetailProduct';
+import InfoDetailProduct from '../../component/Product/InfoDetailProduct';
+import CommentProduct from '../../component/Product/CommentProduct';
+import ProfileProduct from '../../component/Product/ProfileProduct';
+import ReviewProduct from '../../component/Product/ReviewProduct';
 function DetailProductPage(props) {
     return (
         <div>

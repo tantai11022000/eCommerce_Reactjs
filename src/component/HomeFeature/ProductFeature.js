@@ -1,6 +1,6 @@
 import React from 'react';
-import ItemProduct from '../../../container/Product/ItemProduct';
-import HeaderContent from '../../../container/Content/HeaderContent';
+import ItemProduct from '../Product/ItemProduct';
+import HeaderContent from '../Content/HeaderContent';
 function ProductFeature(props) {
     return (
 

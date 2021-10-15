@@ -1,6 +1,6 @@
 import React from 'react';
-import HeaderContent from '../../../container/Content/HeaderContent';
-import HomeBlogItem from '../../../container/Blog/HomeBlogItem';
+import HeaderContent from '../Content/HeaderContent';
+import HomeBlogItem from './HomeBlogItem';
 function HomeBlog(props) {
     return (
         <section className="blog-area section-gap">

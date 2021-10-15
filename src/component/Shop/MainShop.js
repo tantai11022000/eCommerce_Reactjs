@@ -1,5 +1,5 @@
 import React from 'react';
-import ItemProduct from '../../container/Product/ItemProduct';
+import ItemProduct from '../Product/ItemProduct';
 function MainShop(props) {
     return (
         <div className="col-lg-9">
