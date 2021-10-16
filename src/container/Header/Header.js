@@ -66,7 +66,7 @@ const Header = props => {
                                             <a className="nav-link" href="index.html">Cửa hàng</a>
                                         </li>
                                         <li className="nav-item ">
-                                            <a className="nav-link" href="index.html">Nổi bật</a>
+                                            <a className="nav-link" href="index.html">Bài viết</a>
                                         </li>
                                         <li className="nav-item">
                                             <a className="nav-link" href="contact.html">Giảm giá</a>

@@ -5,10 +5,9 @@ function Pagination(props) {
     for (var i = 0; i < props.amountPage; i++) {
         item.push(<li className="page-item" key= {i+1}><a className="page-link" href="#">{i+1}</a></li>);
     }
-    console.log(item)
     return (
         <nav aria-label="Page navigation example" style={{ marginTop: '50px', }}>
-            <ul className="pagination" style={{ marginLeft: '50%', }}>
+            <ul className="pagination justify-content-center" style={{ marginLeft: '70%', }}>
                 <li className="page-item">
                     <a className="page-link" href="#" aria-label="Previous">
                         <span aria-hidden="true">&laquo;</span>
