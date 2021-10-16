@@ -30,9 +30,10 @@ const Header = props => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="contact.html">
-                                            Liên hệ
-                                        </a>
+                                        <a>VI</a>
+                                    </li>
+                                    <li>
+                                        <a>EN</a>
                                     </li>
                                 </ul>
                             </div>
